@@ -148,4 +148,21 @@ footer nav a {
 a {
     text-decoration: none;
     color: black;
+    font-size: 0.9rem;
+
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-right: 3rem;
+}
+
+#headerImage {
+    margin-bottom: 2rem;
+}
+
+header {
+    margin: 2rem 0 3rem 0;
 }
