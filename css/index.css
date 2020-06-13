@@ -278,13 +278,10 @@ header {
 }
 
 .containerabout-page {
-display: flex;
-flex-direction: column;
+    display: flex;
+    flex-direction: column;
 }
 
-#about {
-
-}
 
 div span {
     font-weight: bold;
@@ -302,8 +299,6 @@ div span {
 
 .middleContent {
     display: flex;
-    
-    
     padding-bottom: 20px;
 }
 
