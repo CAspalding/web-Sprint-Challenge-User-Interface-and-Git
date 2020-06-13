@@ -332,3 +332,11 @@ button {
 .textOffset {
     margin: 0 1rem 1rem 1rem;
 }
+
+.dottedLine {
+    border-bottom: 1px dashed black;
+}
+
+.dottedLine p {
+    margin-bottom: 1rem;
+}
