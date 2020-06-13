@@ -302,7 +302,25 @@ div span {
 
 .middleContent {
     display: flex;
-    border-bottom: 1px dashed black;
-    padding: 0 2rem 0 2rem;
+    
+    
     padding-bottom: 20px;
+}
+
+.innerMiddle {
+    border-bottom: 1px dashed black;
+    margin: 1rem;
+}
+
+button {
+    background-color: white;
+    border: 0.15rem solid black;
+    border-radius: 1rem;
+    padding: 0.8rem;
+    font-size: 1rem;
+    margin: 1rem;
+}
+
+.middleContent img {
+    margin-bottom: 1rem ;
 }
